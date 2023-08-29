@@ -1,5 +1,5 @@
 # mkdocs-kotlin-playground
-Replaces fenced code blocks with the language `kotlin` with an interactive Kotlin Playground.
+Replaces fenced kotlin code blocks with an themed and interactive Kotlin Playground.
 
 ## Usage
 First, copy `kotlin.js` and `kotlin.css` into the respective `javascripts` and `stylesheets` directories in your mkdocs project.
