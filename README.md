@@ -4,6 +4,8 @@ Replaces fenced kotlin code blocks with an themed and interactive Kotlin Playgro
 ## Usage
 First, copy `kotlin.js` and `kotlin.css` into the respective `javascripts` and `stylesheets` directories in your mkdocs project.
 
+> Note: The `javascripts` and `stylesheets` directories should be in your `./docs/` directory.
+
 Next add the following to your `mkdocs.yml`:
 ```yaml
 extra_javascript:
